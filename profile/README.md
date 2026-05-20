@@ -1,6 +1,6 @@
-## Welcome to the Gillani Lab! :relaxed:
+## Welcome to the Gillani Lab! :relaxed: :wave:
 
-The Gillani Lab is a computational biology research group led by Dr. Riaz Gillani at the [Dana-Farber / Boston Children's Cancer and Blood Disorders Center](https://www.danafarberbostonchildrens.org/), [Harvard Medical School](https://hms.harvard.edu/), and the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). 
+The Gillani Lab is a computational biology research group led by Dr. Riaz Gillani at the [Dana-Farber / Boston Children's Cancer and Blood Disorders Center](https://www.danafarberbostonchildrens.org/), the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [Harvard Medical School](https://hms.harvard.edu/). 
 
 ---
 
